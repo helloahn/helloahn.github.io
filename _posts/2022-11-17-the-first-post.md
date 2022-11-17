@@ -3,7 +3,7 @@ layout: post
 title: hello github.io
 subtitle: 시작하는 글
 categories: small talk
-tags: [small talk, diary, naver]
+tags: [smalltalk, diary, naver]
 ---
 
 폐쇄적인 회사 생활 덕에 해보지 못 했던 블로그를 \
