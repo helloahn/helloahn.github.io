@@ -297,10 +297,20 @@ header, .page-banner {
   text-align: center;
 }
 
-.hitter {
-  display: inline-block;
+.banner-badge-area {
   position: absolute;
   z-index: 1;
-  left: 0;
   bottom: 0;
+}
+
+.banner-badge-left {
+  left: 0;
+}
+
+.banner-badge-right {
+  right: 0;
+}
+
+.banner-badge {
+  display: inline-block;
 }

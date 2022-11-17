@@ -767,3 +767,12 @@ html {
   background-color: #e3e3e3e3;
   vertical-align: baseline;
 }
+
+.about-badge {
+  display: inline-block;
+}
+
+.about-badge > a > img {
+  height : auto;
+  margin: 5px;
+}
