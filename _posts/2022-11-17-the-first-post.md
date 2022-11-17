@@ -2,7 +2,7 @@
 layout: post
 title: hello github.io
 subtitle: 시작하는 글
-categories: small talk
+categories: smalltalk
 tags: [smalltalk, diary, naver]
 ---
 
