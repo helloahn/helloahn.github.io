@@ -21,6 +21,9 @@ tags: [smalltalk, diary, naver]
 
 기대된다.
 
+
+<img src="/assets/images/post-imgs/KakaoTalk_20221118_014055108.jpg" />
+<p style="text-align: center; color: grey;"><i>마지막으로 챙긴 기념품</i></p>
 <html>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5795250395612169"
       crossorigin="anonymous"></script>
