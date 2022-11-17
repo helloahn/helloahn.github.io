@@ -296,3 +296,11 @@ header, .page-banner {
 .page-banner-default {
   text-align: center;
 }
+
+.hitter {
+  display: inline-block;
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  bottom: 0;
+}
