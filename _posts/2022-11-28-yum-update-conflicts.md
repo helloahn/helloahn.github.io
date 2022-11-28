@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CentOS] yum update, install시 cpio: rename 에러
+title: "[CentOS] yum update, install시 cpio: rename 에러"
 subtitle: yum package install / update error
 categories: CentOS
 tags: [centos, yum, cpio, error]
