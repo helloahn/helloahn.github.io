@@ -12,7 +12,7 @@ tags: [mac, vscode, vibrancy]
 ### trouble shooting
 vscode에서 `Reload Vibrancy`를 수행했을 때 아래와 같은 에러가 발생
 
-![img](assets/images/post-imgs/2022-12-06_16.03.13.png)
+![img](/assets/images/post-imgs/2022-12-06_16.03.13.png)
 
 -> VS code 위치 이동
 ```shell
